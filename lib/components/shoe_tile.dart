@@ -61,7 +61,7 @@ class ShoeTile extends StatelessWidget {
                             shoe.name,
                             style: const TextStyle(
                               fontWeight: FontWeight.bold,
-                              fontSize: 20,
+                              fontSize: 18,
                             ),
                           ),
                           Text(
