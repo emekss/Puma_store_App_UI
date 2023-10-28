@@ -36,8 +36,10 @@ To use and customize this UI for your Flutter project, follow these steps:
 
 ## App View
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+
+https://github.com/emekss/Puma_store_App_UI/assets/110977719/de448faa-0833-4773-b977-3efc130c76c3
+
+
 
 ## Dependencies
 
